@@ -1,11 +1,10 @@
-import fetch from 'node-fetch';
-
 const goodPerks = [
   "Finesse",
   "Resurgence",
   "Lethal Pursuer",
   "Barbecue & Chili",
-  "Floods of Rage"
+  "Floods of Rage",
+  "Vigil"
 ];
 
 export default async function handler(req, res) {
