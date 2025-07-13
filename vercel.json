@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/alert.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
