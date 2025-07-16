@@ -1,10 +1,9 @@
 const goodPerks = [
   "Finesse",
   "Resurgence",
-  "Lethal Pursuer",
   "Barbecue & Chili",
-  "Floods of Rage",
-  "Vigil"
+  "Scourge Hook: Floods of Rage",
+  "Bardic Inspiration"
 ];
 
 export default async function handler(req, res) {
