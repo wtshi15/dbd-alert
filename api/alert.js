@@ -1,6 +1,4 @@
 const goodPerks = [
-  "Finesse",
-  "Resurgence",
   "Barbecue & Chili",
   "Scourge Hook: Floods of Rage",
   "Bardic Inspiration"
