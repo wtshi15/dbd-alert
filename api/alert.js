@@ -1,6 +1,5 @@
 const goodPerks = [
   "Barbecue & Chili",
-  "Scourge Hook: Floods of Rage",
   "Bardic Inspiration"
 ];
 
