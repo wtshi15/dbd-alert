@@ -1,10 +1,9 @@
 const goodPerks = [
   "Barbecue & Chili",
-  "Bardic Inspiration",
-  "Decisive Strike",
-  "Surge",
-  "Scene Partner",
-  "Resurgence"
+  "Resurgence",
+  "Plot Twist",
+  "Extrasensory Perception",
+  "Parental Guidance"
 ];
 
 export default async function handler(req, res) {
