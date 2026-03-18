@@ -1,6 +1,5 @@
 const goodPerks = [
   "Barbecue & Chili",
-  "Resurgence",
   "Plot Twist",
   "Extrasensory Perception",
   "Parental Guidance"
