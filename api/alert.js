@@ -1,7 +1,8 @@
 const goodPerks = [
   "Plot Twist",
   "Extrasensory Perception",
-  "Parental Guidance"
+  "Parental Guidance",
+  "Resurgence"
 ];
 
 export default async function handler(req, res) {
